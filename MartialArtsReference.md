@@ -22,14 +22,14 @@
 * Gerk = Foot / Leg
 * Chuie = Fist
 ##### Blocks
-* **Biu** Sao = Palm down **deflection** block
-* **Bong** Sao = **Wing Hand** / Elbow Up block
-* **Goang** Sao = **Downward** block
+* Biu Sao = Palm down deflection block
+* Bong Sao = Wing Hand / Elbow Up block
+* Goang Sao = Downward block
 * Fook Sao = Forearm down deflection
 * Li Sao = Pulling Palm up deflection
 * Tan Sao = Palm Up deflection
-* **Jum** Sao = **Sinking** Block
-* **Kwan** Sao = Bong + Tan combination
+* Jum Sao = Sinking Block
+* Kwan Sao = Bong + Tan combination
 * Huen Sao = Circling Hand Parry
 * Kau Sao = Wide Hook Parry
 * O'ou Sao = Hook Hand Parry
@@ -38,36 +38,39 @@
 ##### Punches
 * Biu Jee = Finger jab
 * Bo Pai = Double palm strike
-* **Choap** Chuie = **Knuckle** fist
-* **Chung** Chuie = **Vertical** fist
-* **Ping** Chuie = **Horizontal** fist
-* **Gwai** Chuie = **Back** fist
+* Choap Chuie = Knuckle fist
+* Chung Chuie = Vertical fist
+* Ping Chuie = Horizontal fist
+* Gwai Chuie = Back fist
 * Jik Chung Chuie = Straight Blast
-* **Jut** Sao = **Jerk** Hand
-* **Lop** Sao = **Pull/Grab** hand
+* Jut Sao = Jerk Hand
+* Lop Sao = Pull/Grab hand
 * Lin Sil Die Da = Simultaneous block & hit
 ##### Kicks (Tek)
-* **Dum** Tek = **Stomp** Kick
-* **Jeet** Tek = **Stop** Kick
-* **Jik** Tek = **Straight** Kick
-* **Juen** *Juk* Tek = **Spin** *Side* Kick
-* Juen **So** Tek = Spin **Heel** Kick
+* Dum Tek = Stomp Kick
+* Jeet Tek = Stop Kick
+* Jik Tek = Straight Kick
+* Juen *Juk* Tek = Spin *Side* Kick
+* Juen So Tek = Spin Heel Kick
 * *Juk* Tek = *Side* Kick
-* **O'ou** Tek = **Round** Kick
-* **So** Tek = **Heel** Kick
+* O'ou Tek = Round Kick
+* So Tek = Heel Kick
 ##### Other
 * Gnoy / Loy = Outside / Inside
 * Go / Ha = High / Low
-* **Gum** Sao = **Pressing** Hand
-* **Jao** Sao = **Running** Hand
-* **Sut** Sao = **Knife** Hand
-* **Wu** Sao = **Guarding** Hand
-* **Man** Sao = **Inquisitive** Hand
+* Gum Sao = Pressing Hand
+* Jao Sao = Running Hand
+* Sut Sao = Knife Hand
+* Wu Sao = Guarding Hand
+* Man Sao = Inquisitive Hand
 * Tok Sao = Double Upward Palm
 * Da = To Hit
 
 ## JKD
 ### Oath
+I intend to develop myself in a positive manner and avoid anything that may reduce my mental growth or my physical health.
+...
+I intend to use what I learn constructively and defensively, and never be abusive or offensive.
 ### Five Ways of Attack
 1. Single Direct Attack (SDA)
 2. Attack by Combination (ABC)
@@ -110,8 +113,8 @@
 	5. J, c, H
 	6. c, H, c
 	7. H, c, H 
-8. J, c, weave, c, H, c
-9. J, weave, H, c, H
+8. J, c, WEAVE, c, H, c
+9. J, WEAVE, H, c, H
 ### Kicks (both leads)
 * RHK, rhk, FK, fk, SK, sk, 
 * Lead Leg only: Heel Kick
@@ -119,12 +122,12 @@
 ABC1: RHK->knee/groin, c, H, c, *half step back* + pendulum step, RHK->knee/groin
 
 ### Trapping (both leads)
-* Basic Traps:
+* Basic Traps from high outside reference point:
 	1. Gnoy Da
 	2. Loy Da
 	3. Go Da
 	4. Ha Da
-	5. Da outside Wu Sao
+	5. Da outside Wu Su
 * High Outside reference point:
 	1. Pak Sao Da
 * High Inside reference point:
@@ -188,6 +191,8 @@ Flow:
 ### Punch Counters (both leads)
 * Box drill
 	* With footwork
+	* Into arm bar
+	* 
 ##### Counters to 1-2 series
 Flow: *J*, catch with rear hand, *c*, ...
  
