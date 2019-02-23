@@ -3,11 +3,13 @@
 2. 18/02/19 - Updated JKD to GREEN.
 
 ### Conventions
+Words/abbreviations starting capital letters indicate actions to be carried out with lead limb, lowercase indicates rear limb.
+##### Abbreviations
 * J - Jab
-* c - Cross
+* c - Cross (straight right)
 * H/h - Hook (lead/rear)
 * U/u - Uppercut (lead/rear)
-* E/e - Elbow (lead/rear), assume horizontal unless specified
+* E/e - Elbow (lead/rear), horizontal unless specified
 * *italic* - opponent action
 * -> - action -> target location
 * RHK/rhk - roundhouse kick (lead/rear) - O'ou Tek
@@ -15,7 +17,6 @@
 * SK/sk - side kick (lead/rear) - Juk Tek
 * LBS/RBS - Left boxing stance, right boxing stance
 * ABC - Attack by combination
-
 ### Terminology
 ##### Body Parts
 * Sao = Hand
@@ -30,8 +31,8 @@
 * Tan Sao = Palm Up deflection
 * Jum Sao = Sinking Block
 * Kwan Sao = Bong + Tan combination
-* Huen Sao = Circling Hand Parry
-* Kau Sao = Wide Hook Parry
+* Huen Sao = Small Circling Hand (Parry)
+* Kau Sao = Wide Circle Hand (Parry)
 * O'ou Sao = Hook Hand Parry
 * Pak Sao = Slap Hand Parry
 * Woang Pak = Cross Slap Parry
@@ -113,8 +114,8 @@ I intend to use what I learn constructively and defensively, and never be abusiv
 	5. J, c, H
 	6. c, H, c
 	7. H, c, H 
-8. J, c, WEAVE, c, H, c
-9. J, WEAVE, H, c, H
+* J, c, bob+weave(back), c, H, c
+* J, bob+weave(forward), H, c, H
 ### Kicks (both leads)
 * RHK, rhk, FK, fk, SK, sk, 
 * Lead Leg only: Heel Kick
@@ -144,34 +145,35 @@ ABC1: RHK->knee/groin, c, H, c, *half step back* + pendulum step, RHK->knee/groi
 * Don Chi Sao = Single arm Chi Sao
 * Lop Sao = Rolling Hands
 
-##### Don Chi Sau 
+##### Don Chi Sao 
 Diverting + Drawing
-##### Lop Sau Drill
+##### Lop Sao Drill
 Flow:
 
 ###### Changes:
 1. .
 2. .
 
-3 energies - strong arm, centreline, over centreline
+3 energies - strong arm, centreline, over centreline; start from high outside reference point.
 
 ##### Strong arm
-1. Lop Sau, chung chuie
-2. Cup Sau
-3. Lop Sau, bong sau
+1. pak sau, *resist*, Lop Sau, chung chuie
+2. pak sau, *resist*, Cup Sau, da->spleen, dum tek->knee
+3. pak sau, *resist*, Bong Sau, under lop sau, Gwai Chuie
 ##### Centreline
-1. pak sau Da, pak sau Da
-2. pak sau Da, chung chuie, pak sau Da
-3. pak sau Da, biu jee, pak sau, Biu Jee
+1. pak sau Da, *block on centerline*, pak sau Da
+2. pak sau Da, *block on centerline*, chung chuie, pak sau Da
+3. pak sau Da, *block on centerline*, biu jee, pak sau, Biu Jee
 ##### Over centreline
-1. pak sau Da, lop sau, Gwai Chuie
-2. pak sau Da, biu jee, pak sau Da
-3. pak sau Da, biu jee, lop sau, Chung Chuie
+1. pak sau Da, *block over centerline*, lop sau, Gwai Chuie
+2. pak sau Da, *block over centerline*, biu jee, pak sau Da
+3. pak sau Da, *block over centerline*, biu jee, lop sau, Chung Chuie
 ##### Trapping Counters 
 1. Pak Sao Da
 ##### Trapping Extensions
-1. Figure 4 arm bar (from Pak Sau, Bong Sau, Lop Sau on third step)
-2. RHK->Knee/groin, J->low, LORP, pak sau, Da, HORP, pak sau, Da, STAMMER, pak sau, Da, react to energy
+1. Figure 4 arm bar (from Pak Sau, Bong Sau, Lop Sau on third step):
+	* From Centreline#1: pak sau Da, *block on centerline*, wide c into figure 4 arm bar.
+2. RHK->Knee/groin, J->low, LORP, pak sau, Da, HORP, pak sau, Da, stammer, pak sau, Da, react to energy
 
 ### Kick Counters
 * Front Kick - Jik Tek:
@@ -181,7 +183,7 @@ Flow:
 	2. Toy Gerk (switch stance), H, c, H, *half step back* + Pendulum step, RHK->knee/groin
 	3. Tu Ma (lift leg), c, H, c, *half step back* + Pendulum step, RHK->knee/groin
 * *rhk* -O'ou Tek:
-	1. Dum Tek (3 of, ->Knee, ->Hip, ->thigh), c, H, c, *half step back* + Pendulum step, RHK->knee/groin
+	1. Dum Tek (3 of, ->knee, ->hip, ->thigh), c, H, c, *half step back* + Pendulum step, RHK->knee/groin
 	2. Cut kick-> inside supporting leg, c, H, c, *half step back* + Pendulum step, RHK->knee/groin
 	3. Jeet Gerk (Crush), c, H, c, *half step back* + Pendulum step, RHK->knee/groin
 * *SK* - Juk Tek
@@ -197,12 +199,12 @@ Flow:
 Flow: *J*, catch with rear hand, *c*, ...
  
 1. Shoulder roll, c, H, c, *half step back* + Pendulum step, RHK->knee/groin
-2. Bob and weave (towards attacker), H, c, H, *half step back* + Pendulum step, RHK->knee/groin
-3. *wide c - not hook*, shoulder stop, c, H, c, *half step back* + Pendulum step, RHK->knee/groin
+2. Bob and weave (forwards), H, c, H, *half step back* + Pendulum step, RHK->knee/groin
+3. *replace c with wide c - not hook*, shoulder stop, c, H, c, *half step back* + Pendulum step, RHK->knee/groin
 4. Pak Jut Sao, high c (over shoulder), H, c, H, *half step back* + Pendulum step, RHK->knee/groin
 5. Pak Sao, low c->spleen, H, c, H, *half step back* + Pendulum step, RHK->knee/groin
 6. Huen Sao, Biu Jee, c, H, c, *half step back* + Pendulum step, RHK->knee/groin
-7. Woang Pak, Biu Jee, ????
+7. Woang Pak, biu jee (split entry), H, c, H, *half step back* + Pendulum step, RHK->knee/groin
 ##### Counters to 1-3 series
 Flow: *J*, catch with rear hand, *H*, ...
 
@@ -257,18 +259,19 @@ Flow: *J*, catch with rear hand, *H*, ...
 	1. Lead; lead tong sao->outside.
 ### Huburd:
 ##### Long Range 
-Flow: Wide stance, *Jab->chin*, rear catch, Lead insert under into Pak, Rear pak, Jab, *repeat*
+Flow: Wide stance, *J->chin*, rear catch, Insert under into Pak, pak, J->chin, *repeat*
 ###### Changes:
-1. From rear catch; E to *fist* (elbow destruction), outside to inside palm down Chop, *block*, insert under into pak, Trap, step forward (switch lead)+J
-2. Intercept *J*; bong sao->common, palm strike->head; *Tong Sao, insert under into pak, Trap, step forward (switch lead)+J*
-3. Intercept *J*; huang sao+step to same side, huang sao+step to opposite side, step (switch lead)+J
+1. From rear catch; E to *fist* (elbow destruction), outside to inside palm down Chop, *block*, insert under, pak, Pak, step forward (switch lead) + *step back (switch lead)*, J->chin
+2. Intercept *J*; tan sao->outside common, palm strike->head; *Bong Sao, insert under, pak, Pak, step forward (switch lead)* + step back (switch lead), *J*
+3. Intercept *J*; huang sao + step to rear side, *c*, Huang Sao + step to lead side, step forward (switch lead) + *step back (switch lead)*, J->chin
 ##### Medium Range 
-Flow: Wide stance, *outside to inside palm up chop->neck*, block, Lead insert under into Pak, rear pak, Lead outside to inside palm up chop->neck, *repeat*
+Flow: Wide stance, *Lead outside to inside palm up chop->neck*, block, Insert under, Pak, pak, *repeat*
 ###### Changes:
-1. After rear pak; Lead outside to inside palm down chop->neck, *Block*, rear insert under into pak, Lead Pak, step forward (switch lead) outside to inside chop->neck
-2. Intercept *chop*; bong sao->common, palm strike->neck, *Tong Sao, insert under into pak, Lead Pak, step forward (switch lead) outside to inside chop->neck*
-3. Intercept *chop*; Rear wrist grab and pull, Lead elbow->elbow, switch hand rear with Lead, j->head, *block and push offline, outside to inside chop->neck*, Block, outside to inside gunting->tricep, Pak, step forward (switch lead), outside to inside chop->neck.
-4. WING BLOCK???
+1. After pak; Lead outside to inside palm down chop->neck, *Block*, insert under, pak, Pak, step forward (switch lead) + *step back (switch lead)*, Lead outside to inside chop->neck
+2. Intercept *chop*; tan sao->common, palm strike->head, *Bong Sao, insert under, pak, Pak, step forward (switch lead)* + step back (switch lead), *Lead outside to inside chop->neck*
+3. After block; Lop Sau, c->head, *block and push outside, outside to inside chop->neck*, Block, outside to inside gunting->tricep, pak, Pak, step forward (switch lead) + *step back (switch lead)*, Lead outside to inside chop->neck
+4. After block; wing into trap (tan sao??), move to rear side, *c through*, ....
+5. CIRCLE INTO TRAP
 ##### Close Range 
 Flow:
 ###### Changes
