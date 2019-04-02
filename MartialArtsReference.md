@@ -18,10 +18,6 @@ Words/abbreviations starting capital letters indicate actions to be carried out 
 * LBS/RBS - Left boxing stance, right boxing stance
 * ABC - Attack by combination
 ### Terminology
-##### Body Parts
-* Sao = Hand
-* Gerk = Foot / Leg
-* Chuie = Fist
 ##### Blocks
 * Biu Sao = Palm down deflection block
 * Bong Sao = Wing Hand / Elbow Up block
@@ -217,9 +213,17 @@ Flow: *J*, catch with rear hand, *H*, ...
 * 4 Gates
 * Application of forms
 ##### Wing Chung Forms
+Dummy striking zones: 
+- H Head
+- LA Left Arm
+- RA Right Arm
+- C Center
+- MA Middle Arm
+- L Leg
+
 1. .
 2. .
-3. .
+3. Square stance, right hand to LA, left hand to RA, right hand to LA, left hand swing right->H (eye swipe), left hand back to right shoulder, inside to outside chop->H + right hand fuk sao to RA (pull), left tan sao to RA (pivot), right hand swing left->H (eye swipe), right hand back to left shoulder, right inside to outside chop->H + left hand fuk sao to LA (pull), right tan sao to outside RA + left biu sao to outside MA, left hand swing right->H  (eye swipe) + right hand biu jee to H, pull/push finish.
 
 ### Wrestling
 * Double leg take down into arm bar
@@ -278,7 +282,7 @@ Flow:
 (first change in GREEN)
 ##### Preparation Drill
 Flow: Place inverted Lead hand on *shoulder*, *push hand off with opposite hand and outside to inside palm down chop back->neck* ... (one of below) ... repeat placing other hand on *shoulder*.
-######????
+
 1. block with rear hand tan sao, Pak.
 2. block with rear hand tan sao, Lead hand outside to inside Gunting->tricep, Insert under into Pak.
 3. block with rear hand tan sao, lop sao, E->e (elbow destruction), switch Lead hand with rear, punch.
@@ -288,8 +292,8 @@ Flow: Place inverted Lead hand on *shoulder*, *push hand off with opposite hand 
 ### Weapons 
 ##### Grips:
 Knife
-1. Blade up - Dagger, Earth, Pecal
-1. Blade down - Heaven, Sog-sog
+1. Blade down - Dagger, Earth, Pecal
+1. Blade up - Heaven, Sog-sog
 ##### Targets
 1. Heaven - Head/Neck
 2. Common - Waist
@@ -314,77 +318,109 @@ All strikes pass through to opposite side, unless designated with 'broken'
 All drills to use both feeding systems.
 All single handed drills to use both Left and Right side
 
-##### Inosanto Lacoste:		
+##### Inosanto Lacoste:	
+1,2,3,4,5,6,7,8,9,10,11,12	
 
 ##### Illustrisimo:
+1,4,3,2,5, ???
 
+##### Empty hand vs Knife:
+###### Defence:
 
-###### Empty hand vs Knife:
-Defense:
-1: step & turn in, lead tong sao+pass through
-2: turn into attack, Lead cup elbow, Back thumb grab, Back hand pull+Lead punch, Lead pass through
-3: as 1
-4: as 2
-5: ??? Lin sil da ???
-Strip Disarms:
-1: step & turn in, Lead buigi+Back bong sao, Back thumb grab, twist hand through centre, pull up, Lead elbow to knife flat to strip.
-2: turn into attack, Lead cup elbow, Back thumb grab, back hand pull+lead punch, grab thumb, push low, Lead elbow to knife flat to strip.
-3: step (on lead foot) & turn in, Lead buigi+Back bong sao, Back thumb grab, twist hand through centre pull up, Lead elbow to knife flat.
-4: as 2.
-5: as 3.
-Hammer & Anvil flow:	
-Hammer & Anvil flow with figure 4 arm lock disarms and give backs:
+1. step & turn into attack, Tong Sao, Pass Through to opposite side 
+2. turn into attack, Cup Elbow (palm up), grab hand (wrap thumb), lop sau + J, Pass through to opposite side 
+3. as 1
+4. as 2
+5. Lin sil da ???
 
-Single/triple trapping flow drill:
+###### Strip Disarms:
 
-Single Stick:
+1. step & turn into attack, Buigi + tong sao, grab hand (wrap thumb), twist hand through centre, pull up, Lead elbow to knife flat to strip.
+2. turn into attack, Lead cup elbow, Back thumb grab, back hand pull + J, twist hand through centre (keep low), pull hand up, E to knife flat to strip.
+3. step (on lead foot) & turn into attack, Bong sao, Back thumb grab, twist hand through centre pull up, e to knife flat to strip.
+4. as 2.
+5. as 3.
+ 
+###### Hammer & Anvil flow:	
+Hammer & Anvil flow with figure 4 arm lock disarms and give backs
 
-Single stick blocks:
-1:2: vertical heaven, strike to meet attack.
-3:4: vertical earth, strike to meet attack.
-Meet & follow (1-4) - to stick, to arm, to hand:
+###### Single/triple trapping flow drill:
 
-3 count Sembrada:
+##### Single Stick:
 
-5 count Sembrada:
+###### Single stick blocks:
+1. vertical heaven, strike to meet attack.
+2. as 1
+3. vertical earth, strike to meet attack.
+4. as 3
+
+###### Meet:
+2 targets: hand, forearm.
+
+1. strike under
+2. as 1
+3. striker over
+4. as 3
+
+###### Follow:
+Start stick over rear shoulder.  *1*, intercept stick behind and swing/push through.  Repeat for strikes 2,3,4. 
+
+###### 5 count Sembrada:
+8->Head, *roof block + catch hand*, *1->trunk*, vertical heaven block + catch hand, 4->trunk, *reverse stance + downward stick block (tip towards attacker) + catch hand*, 3->trunk, *vertical earth block + catch hand*, *abanico as 8->head*, roof block (twish towards attack, stick tip to shoulder) (no catch).  Repeat with alternate roles.
 
 GREEN> Entry 3, 5 count Sembrada + disarms, Punyo Sombrada, Hubud (2-2) (1-4-1)
 
-Double Stick:
+##### Double Stick:
 
-Heaven 4/Ikis: 1+2, switch lead, (repeat)
+###### Heaven 4/Ikis: 
+1+2, switch lead, (repeat)
 
-Abecedarios 6: 1 backhand common->earth (return), 2, switch lead, (repeat)
+###### Abecedarios 6: 
+1 backhand common->earth (return), 2, switch lead, (repeat)
 
-Cob cob/Pi Pi: (square stance) - R1 (return), L1 (return), R3 (return), L3 (return), R9 (return), L9 (return)
+###### Cob cob/Pi Pi: 
+(square stance) - R1 (return), L1 (return), R3 (return), L3 (return), R9 (return), L9 (return)
 
-Heaven 6:
+###### Sinawali 6 count:
+1. Heaven:
 
-Standard 6:
+2. Standard:
 
-Earth 6:
-J<something> 8:
-(H6/S6/E6: subs 1 and/or 4 strike with upward figure 8, downward figure 8, half x, abanico)
+3. Earth
+
+Entries on before strikes 1 and 4: upward figure 8, downward figure 8, half x, abanico
+
+
 GREEN> Umbrella 6, Upward 6, Siniwali Variations (HHHL, HLL, LLH, LHH, LHL), double stick Sombrada
 
-Stick and Knife:
-1.  
+J something 8: boxing stance, sticks X (lead outside), lead 1 (ends on lead delt), rear 1 (ends on lead shoulder, above lead stick), lead broken 2 (return to lead delt), rear broken 2 (end under lead arm), lead broken 2 (return to lead delt), rear 4 (end on rear delt), lead 4 (end under rear arm), rear broken 1, strike through starting position.
+
+##### Stick and Knife:
+Stick in lead hand, knife in back hand (heaven grip).  Both move and coordinate strikes.
+1.  Start neutral stance.  Triangle step right, 1 (stick), exaggerated 1 (knife), 4 (stick), rear back fist (backs of hands should touch).  Reset and repeat step to left.
 2. 
 3. 
 
-Gunting passes:
-1: Open, scissor motion; stick follows attack + knife underneath to arm/hand
-2: Closed, scissor motion;  stick follows attack + knife underneath to arm/hand
-3: Open, scissor motion; stick follows attach + knife over top to arm/hand
-4: Closed, scissor motion; stick follows attach + knife over top to arm/hand
-5: as 3.
-Knife vs Knife:
-Passing series:
+Entries in Sinawali 6 count.
+
+###### Gunting passes:
+
+1. Open, scissor motion; stick follows attack + knife underneath to arm/hand
+2. Closed, scissor motion;  stick follows attack + knife underneath to arm/hand
+3. Open, scissor motion; stick follows attach + knife over top to arm/hand
+4. Closed, scissor motion; stick follows attach + knife over top to arm/hand
+5. as 3.
+
+##### Knife vs Knife:
+###### Passing series:
+
 Attacker Heaven grip, defender Earth grip.
-1:
-2:
-3:
-4:
-5:
+
+1. 
+2. 
+3. 
+4. 
+5. 
+
 GREEN> Hammer&Anvil flow with 3 disarms
 
